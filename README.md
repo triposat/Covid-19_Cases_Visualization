@@ -9,7 +9,7 @@
 </p>
 
 _______________________________
-### <h1 align="center">Smart <a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py">**`COVID-19 CASES NOTIFIERCovid_Cases_NotifierPYTHON`<h1/>
+### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py">**`COVID-19 CASES NOTIFIER`**</a>Using `PYTHON`<h1/>
 _______________________________
 
 <h3 align="center">
