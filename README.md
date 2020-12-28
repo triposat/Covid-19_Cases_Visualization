@@ -9,7 +9,7 @@
 </p>
 
 _______________________________
-### <h1 align="center">Smart <a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator">**`AGE CALCULATOR`**</a>Using `PYTHON`<h1/>
+### <h1 align="center">Smart <a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py">**`COVID-19 CASES NOTIFIERCovid_Cases_NotifierPYTHON`<h1/>
 _______________________________
 
 <h3 align="center">
@@ -65,7 +65,7 @@ _________________________________
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Age_Calculator?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Age_Calculator?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/created/Iamtripathisatyam/Age_Calculator?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Covid_Cases_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Covid_Cases_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/created/Iamtripathisatyam/Covid_Cases_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
