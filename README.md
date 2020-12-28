@@ -24,26 +24,20 @@ _______________________________
 
 # PreRequisite:
 ```python
-        ~ pip install python-dateutil
+        ~ pip install requests
         ~ pip install plyer
 ```
              
 # Module Needed:
 ```python 
-          from dateutil.relativedelta import relativedelta
-          from datetime import datetime
-          from time import strptime
           from plyer import notification
-          import os 
+          import requests
+          import json
+          import datetime          
 ```
 # Use of **`plyer`** Module:
 ```python
        1. Used as a Desktop Notifier. 
-       2. It produces a Notification Message in form of a POP-UP Message on Desktop.
-```
-# Use of **`os`** Module:
-```python
-       1. This Module in python provides functions for interacting with the Operating System. 
        2. It produces a Notification Message in form of a POP-UP Message on Desktop.
 ```
 # Use of **`datetime`** Module:
@@ -51,17 +45,17 @@ _______________________________
        1. This Module supplies classes to work with date and time.
        2. These classes provide a number of functions to deal with dates, times and time intervals.
 ```
-# Use of **`dateutil.relativedelta`** Module:
+# Use of **`json`** Module:
 ```python
-       1. The relativedelta type is designed to be applied to an existing datetime.
-       2. It can replace specific components of that datetime, or represents an interval of time.
+       1. Used to work with JSON Data. 
+       2. If you have a JSON string, you can parse it by using the json.loads() method.
 ```
-# Use of **`time`** Module:
+# Use of **`requests`** Module:
 ```python
-       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
-       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
+       1. Use to send all kinds of HTTP requests. 
+       2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
 ```
-_________________________________
+______________________________
 
 <br/>
 <p align="center">
