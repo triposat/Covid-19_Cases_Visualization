@@ -8,6 +8,10 @@
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Covid_Cases_Notifier}/count.svg" alt=Iamtripathisatyam />
+</p>
+
 _______________________________
 ### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py">**`COVID-19 CASES NOTIFIER`**</a> Using `PYTHON`<h1/>
 _______________________________
@@ -59,7 +63,6 @@ ______________________________
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Covid_Cases_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Covid_Cases_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Covid_Cases_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
