@@ -14,7 +14,7 @@
 
 _______________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py">COVID-19 CASES NOTIFIER</a> Using <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/python-icon.png"><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py">COVID-19 CASES NOTIFIER</a> Using <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/python-icon.png" width="30px" height="25px"><h3/>
 _______________________________
 
 ### Prerequisite:
