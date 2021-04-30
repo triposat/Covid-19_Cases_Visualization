@@ -30,25 +30,19 @@ _______________________________
           import json
           import datetime          
 ```
-## Use of **`plyer`** Module:
+## Use of `plyer` Module:
    - Used as a Desktop Notifier. 
    - It produces a Notification Message in form of a POP-UP Message on Desktop.
        
-## Use of **`datetime`** Module:
-```python
-       1. This Module supplies classes to work with date and time.
-       2. These classes provide a number of functions to deal with dates, times and time intervals.
-```
-## Use of **`json`** Module:
-```python
-       1. Used to work with JSON Data. 
-       2. If you have a JSON string, you can parse it by using the json.loads() method.
-```
-## Use of **`requests`** Module:
-```python
-       1. Use to send all kinds of HTTP requests. 
-       2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
-```
+## Use of `datetime` Module:
+   - This Module supplies classes to work with date and time.
+   - These classes provide a number of functions to deal with dates, times and time intervals.
+## Use of `json` Module:
+   - Used to work with JSON Data. 
+   - If you have a JSON string, you can parse it by using the json.loads() method.
+## Use of `requests` Module:
+   - Use to send all kinds of HTTP requests. 
+   - The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
 ______________________________
 
 <br/>
