@@ -17,7 +17,7 @@ _______________________________
 ## <h2 align="center"><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py">COVID-19 CASES NOTIFIER</a> Using <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/python-icon.png"><h2/>
 _______________________________
 
-## PreRequisite:
+## Prerequisite:
 ```python
         ~ pip install requests
         ~ pip install plyer
@@ -30,17 +30,17 @@ _______________________________
           import json
           import datetime          
 ```
-## Use of `plyer` Module:
+## Use of `plyer` module:
    - Used as a Desktop Notifier. 
    - It produces a Notification Message in form of a POP-UP Message on Desktop.
        
-## Use of `datetime` Module:
+## Use of `datetime` module:
    - This Module supplies classes to work with date and time.
    - These classes provide a number of functions to deal with dates, times and time intervals.
-## Use of `json` Module:
+## Use of `json` module:
    - Used to work with JSON Data. 
    - If you have a JSON string, you can parse it by using the json.loads() method.
-## Use of `requests` Module:
+## Use of `requests` module:
    - Use to send all kinds of HTTP requests. 
    - The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
 ______________________________
