@@ -31,10 +31,9 @@ _______________________________
           import datetime          
 ```
 ## Use of **`plyer`** Module:
-```python
-       1. Used as a Desktop Notifier. 
-       2. It produces a Notification Message in form of a POP-UP Message on Desktop.
-```
+  - Used as a Desktop Notifier. 
+  - It produces a Notification Message in form of a POP-UP Message on Desktop.
+       
 ## Use of **`datetime`** Module:
 ```python
        1. This Module supplies classes to work with date and time.
