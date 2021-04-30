@@ -13,7 +13,8 @@
 </p>
 
 _______________________________
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py">**`COVID-19 CASES NOTIFIER`**</a> Using `PYTHON`<h1/>
+
+## <h2 align="center"><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py">COVID-19 CASES NOTIFIER</a> Using `PYTHON`<h2/>
 _______________________________
 
 # PreRequisite:
