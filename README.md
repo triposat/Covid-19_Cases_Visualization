@@ -1,7 +1,7 @@
-![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Covid_Cases_Notifier?color=red&label=Repo%20Size%20)
-![License](https://img.shields.io/badge/License-MIT-red.svg)
-[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
-![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Covid_Cases_Notifier?color=red&label=Lines%20of%20Code)
+![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Covid_Cases_Notifier?color=red&label=Repo%20Size%20)</br>
+![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
+[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)</br>
+![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Covid_Cases_Notifier?color=red&label=Lines%20of%20Code)</br>
 
 <p align="center">
 <img src="https://icons.iconarchive.com/icons/iconshock/real-vista-education/128/laboratory-icon.png" />
