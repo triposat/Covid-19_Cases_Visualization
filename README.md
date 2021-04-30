@@ -14,7 +14,7 @@
 
 _______________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py"></a><img src="https://img.shields.io/badge/-COVID--19 CASES NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat"><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py"></a><img src="https://img.shields.io/badge/-COVID--19 CASES NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"><h3/>
 _______________________________
 
 ### Prerequisite:
