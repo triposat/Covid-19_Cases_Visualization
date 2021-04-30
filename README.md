@@ -17,11 +17,8 @@
   <img src="https://profile-counter.glitch.me/{Covid_Cases_Notifier}/count.svg" alt=Iamtripathisatyam />
 </p>
 
-_______________________________
-
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier/blob/main/Covid_19_Cases.py"><img src="https://img.shields.io/badge/-COVID--19 CASES NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
-_______________________________
-
+  
 ### Prerequisite:
 ```python
         ~ pip install requests
