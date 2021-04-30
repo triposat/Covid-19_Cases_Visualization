@@ -1,3 +1,7 @@
+![Size](https://github-size-badge.herokuapp.com/Iamtripathisatyam/Covid_Cases_Notifier.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
+
 <p align="center">
 <img src="https://icons.iconarchive.com/icons/iconshock/real-vista-education/128/laboratory-icon.png" />
 </p>
