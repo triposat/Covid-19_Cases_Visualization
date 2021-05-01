@@ -4,7 +4,7 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Covid_Cases_Notifier?color=red&label=Lines%20of%20Code)</br>
 
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/iconshock/real-vista-education/128/laboratory-icon.png" />
+<img src="https://cutt.ly/0blc77X" />
 </p>
 
 <p align="center">
