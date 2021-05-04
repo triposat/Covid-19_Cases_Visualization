@@ -45,7 +45,6 @@
 ### Use of `requests` module:
    - Use to send all kinds of HTTP requests. 
    - The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
-______________________________
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam">Made with <img src="https://cutt.ly/rblcRTN" width="20px"> in India</a><h3/>
 
