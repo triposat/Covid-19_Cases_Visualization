@@ -20,7 +20,7 @@ if __name__ == '__main__':
         recover = Result[0]['recovered']
         Today_date = datetime.datetime.now().strftime("%d-%m-%y")
         Today_time = datetime.datetime.now().strftime("%H : %M : %S")
-        notification.notify(title=f"Covid-19 Live Updates\tDate : {Today_date}\tTime - {Today_time}", message=f"\n\t   WORLD "
+        notification.notify(title=f"Covid-19 Live Updates\tDate: {Today_date}\tTime - {Today_time}", message=f"\n\t   WORLD "
                             f"\nConfirmed Cases: {cases}\nDeaths: {deaths}\nRecovered: {recovered}\n\n\t    {country.upper()}\nConfirmed Cases: "
                             f" {case}\nTotal Deaths: {death}\nTotal Recovered: {recover}\nToday Cases: {today_cases}\nToday Deaths: {today_death}", app_icon="D:\All IN ONE\Programming Notes\Icons/vir.ico", timeout=10)
         Choice = input("Do You Want to See More Records: Press[Y/N]").lower()
