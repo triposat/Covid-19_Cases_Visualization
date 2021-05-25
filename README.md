@@ -8,7 +8,7 @@
 ![](https://profile-counter.glitch.me/{Covid_Cases_Notifier}/count.svg)
 
 <p align="center">
-<img src="https://cutt.ly/0blc77X" />
+<a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization/blob/main/Covid_19_Data_Analysis.ipynb"><img src="https://cutt.ly/0blc77X" /></a>
 </p>
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization/blob/main/Covid_19_Data_Analysis.ipynb"><img src="https://img.shields.io/badge/-COVID--19 DATA ANALYSIS-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
