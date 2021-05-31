@@ -8,11 +8,11 @@
 ![](https://profile-counter.glitch.me/{Covid_Cases_Notifier}/count.svg)
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization/blob/main/Covid_19_Data_Analysis.ipynb"><img src="https://cutt.ly/0blc77X" /></a>
+<a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization/blob/main/Covid_19_Data_Analysis.ipynb"><img src="https://cdn.icon-icons.com/icons2/1078/PNG/512/worldmap_77999.png" width="180"/></a>
 </p>
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization/blob/main/Covid_19_Data_Analysis.ipynb"><img src="https://img.shields.io/badge/-COVID--19 DATA ANALYSIS-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
-
+- Let's [*see*](https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization/blob/main/Covid_19_Data_Analysis.ipynb) a simple Python script to demonstrate the Country and world-wide coronavirus cases.
+- This Python script fetches the live data from the site.
 ____________________________
 
 <p>&copy; 2021 Satyam Tripathi</p>
