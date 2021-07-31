@@ -1,4 +1,3 @@
-![](https://forthebadge.com/images/badges/for-you.svg)
 ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![](https://forthebadge.com/images/badges/built-by-developers.svg)</br>
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
