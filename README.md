@@ -12,6 +12,4 @@
 
 - Let's [*see*](https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization/blob/main/Covid_19_Data_Analysis.ipynb) a simple Python script to demonstrate the Country and world-wide coronavirus cases.
 - This Python script fetches the live data from the site.
-____________________________
-
-<p>&copy; 2021 Satyam Tripathi</p>
+- Data was collected using the Pycountry module, plotted using Plotly, and organized into rows and columns using Pandas.
